@@ -3,3 +3,4 @@
 build
 dist
 *.spec
+ipv4_subnet_calculator_env
