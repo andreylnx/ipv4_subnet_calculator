@@ -1,5 +1,5 @@
 ''' 
-SUBNET MASK CALCULATOR v0.1
+SUBNET MASK CALCULATOR v0.0.1
 '''
 
 import re
