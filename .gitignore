@@ -2,5 +2,6 @@
 .vscode/launch.json
 build
 dist
+temp
 *.spec
 ipv4_subnet_calculator_env
